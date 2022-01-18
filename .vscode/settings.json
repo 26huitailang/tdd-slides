@@ -1,0 +1,6 @@
+{
+	"python.testing.pytestEnabled": true,
+	"python.testing.cwd": "./demo_01/tests",
+	"testing.automaticallyOpenPeekViewDuringAutoRun": true,
+	"testing.autoRun.delay": 3000
+}
