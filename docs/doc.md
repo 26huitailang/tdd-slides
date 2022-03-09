@@ -20,6 +20,9 @@
 
 ### VsCode
 
+- coverage gutters, 提供watch模式
+- save and run, 配置pytest保存和运行
+
 ## 总结
 
 > 谢谢你，测试
